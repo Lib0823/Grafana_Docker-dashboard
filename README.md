@@ -65,5 +65,5 @@
 
 ## 예시 화면
 
-
+![대시보드 예시](https://github.com/Lib0823/Grafana_Docker-dashboard/blob/main/example.png)
 
