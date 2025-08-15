@@ -24,6 +24,11 @@
 
 ---
 
+## 아키텍처
+![대시보드 예시](https://github.com/Lib0823/Grafana_Docker-dashboard/blob/main/architecture.png)
+
+---
+
 ## 사전 준비
 
 1. **Prometheus**와 **Grafana**가 설치 및 실행 중이어야 합니다.
